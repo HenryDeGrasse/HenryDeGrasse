@@ -1,6 +1,6 @@
 ### Hi, I'm Henry deGrasse
 
-- 🔭 I’m currently working on my [ePortfolio](https://bit.ly/3Jp5IWq)
+- 🔭 I’m currently working on moving all projects to my github and , my [ePortfolio](https://bit.ly/3Jp5IWq)
 - 🌱 I’m currently learning C
 - 👯 I’m currently looking for a Software Engineering / Developer co-op or internship.
 - 🤔 I’m looking for help with STM32CubeIde
