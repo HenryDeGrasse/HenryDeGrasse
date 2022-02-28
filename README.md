@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi, I'm Henry deGrasse
 
-<!--
-**HenryDeGrasse/HenryDeGrasse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on my [ePortfolio](https://bit.ly/3Jp5IWq)
+- 🌱 I’m currently learning C
+- 👯 I’m currently looking for a Software Engineering / Developer co-op or internship.
+- 🤔 I’m looking for help with STM32CubeIde
+- 💬 Ask me about Java
+- 📫 How to reach me: degrasse.h@northeastern.edu , [LinkedIn](www.linkedin.com/in/henrydegrasse)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am one of six children
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src = "https://github-readme-stats.vercel.app/api?username=HenryDeGrasse&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
