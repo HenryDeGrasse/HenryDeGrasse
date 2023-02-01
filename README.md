@@ -1,9 +1,9 @@
 ### Hi, I'm Henry deGrasse
 
-- 🔭 I’m currently working as a software engineer @ Wayfair
-- 🌱 I’m currently learning React.js
-- 👯 I’m currently looking for a study abroad opportunity
-- 🤔 I’m looking forward to the weekend
+- 🔭 I’m currently looking for a software engineering co-op/internship
+- 🌱 I’m currently learning Machine Learning & AI
+- 👯 I’m currently studying abroad in Madrid, Spain
+- 🤔 I’m looking forward to traveling Europe
 - 💬 Ask me about Java
 - 📫 How to reach me: degrasse.h@northeastern.edu , [LinkedIn](www.linkedin.com/in/henrydegrasse)
 - ⚡ Fun fact: I have 5 siblings
