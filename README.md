@@ -1,7 +1,7 @@
 ### Hi, I'm Henry deGrasse
 
 - 🔭 I’m currently looking for a full-time software engineering position
-- 🌱 I’m currently learning Machine Learning & AI
+- 🌱 I’m currently learning Linear Algebra
 - 👯 I’m currently working towards completing my mathematics minor
 - 🤔 I’m looking forward to graduation and beginning a full-time job to support my family
 - 📫 How to reach me: henrydegrasse@gmail.com , [LinkedIn](www.linkedin.com/in/henrydegrasse)
